@@ -20,7 +20,8 @@
      "addOns": {
        "common": {
          "name": "My Add-on",
-         "logoUrl": "https://kosuke12-takeuchi11.github.io/my-repository/gmail_salinks.png"
+         "logoUrl": "https://kosuke12-takeuchi11.github.io/my-repository/gmail_salinks.png" ,
+         "logoUrl2": "https://kosuke12-takeuchi11.github.io/my-repository/gmail_salinks.png"
        }
      }
    }
